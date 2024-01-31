@@ -1,0 +1,12 @@
+End point : https://reqres.in/api/users/2
+
+Request Body : 
+
+{
+    "name": "Ankita",
+    "job": "Developer"
+}
+
+Response Body : 
+
+{"name":"Ankita","job":"Developer","updatedAt":"2023-10-29T19:08:34.480Z"}

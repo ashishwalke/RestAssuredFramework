@@ -1,0 +1,12 @@
+End point : https://reqres.in/api/users/2
+
+Request Body : 
+
+{
+    "name": "Shreya",
+    "job": "PDO"
+}
+
+Response Body : 
+
+{"name":"Shreya","job":"PDO","updatedAt":"2023-10-29T19:08:35.973Z"}
